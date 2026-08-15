@@ -7,9 +7,6 @@ Cluster is a native Android app for devs and gamers. It aggregates tech news and
 
 ## 🛠️ Tech Stack
 - **Language/UI:** Java, XML
-- **Architecture:** MVVM Pattern
-- **Local DB:** Room (Offline caching)
-- **Network:** Retrofit + REST API (IGN News Feed)
 - **Backend:** Firebase (Auth/Chat)
 
 ## 🚀 Setup
